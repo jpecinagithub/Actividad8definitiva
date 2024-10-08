@@ -1,0 +1,10 @@
+INSERT INTO usuarios (id, nombre, email, imagen) VALUES (11, 'Jon', 'jpecina@gmail.com', 'https://placehold.co/400');
+INSERT INTO usuarios (id, nombre, email, imagen) VALUES (12, 'Luna', 'luna@gmail.com', 'https://placehold.co/432');
+INSERT INTO usuarios (id, nombre, email, imagen) VALUES (13, 'Marta', 'marta@gmail.com', 'https://placehold.co/452');
+INSERT INTO usuarios (id, nombre, email, imagen) VALUES (14, 'Ezequiel', 'ezequiel@gmail.com', 'https://placehold.co/412');
+INSERT INTO usuarios (id, nombre, email, imagen) VALUES (15, 'Carlos', 'carlos@gmail.com', 'https://placehold.co/492');
+INSERT INTO usuarios (id, nombre, email, imagen) VALUES (16, 'Esmeralda', 'esmeralda@gmail.com', 'https://placehold.co/392');
+INSERT INTO usuarios (id, nombre, email, imagen) VALUES (17, 'Patricia', 'patricia@gmail.com', 'https://placehold.co/532');
+INSERT INTO usuarios (id, nombre, email, imagen) VALUES (18, 'Lucas', 'lucas@gmail.com', 'https://placehold.co/332');
+INSERT INTO usuarios (id, nombre, email, imagen) VALUES (19, 'Ion', 'ion@gmail.com', 'https://placehold.co/752');
+INSERT INTO usuarios (id, nombre, email, imagen) VALUES (20, 'Martin', 'martin@gmail.com', 'https://placehold.co/652');
